@@ -5,7 +5,7 @@
 /* TEAM */
   Dirk Schumacher
   mail@dirk-schumacher.net
-  Location: Kopenhagen
+  Location: Berlin
 
   Michael Whittaker (www.michael-whittaker.de)
   post@michael-whittaker.de
@@ -15,7 +15,7 @@
   all beta testers and idea contributors!
 
 /* SITE */
-  see https://github.com/dirkschumacher/iUPB/wiki 
+  see http://yippie-io.github.com
 
 
 
